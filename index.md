@@ -2,7 +2,7 @@
 layout: default
 ---
 ![Avatar](/assets/images/avatar.PNG)
-Research Engineer at [Technology Innovation Hub for Cobotics](http://cobotics-iitd.com/), IIT Delhi, India.
+Research Engineer at [TIH-Cobotics](http://cobotics-iitd.com/), IIT Delhi, India.
 
 [Link to another page](./another-page.html).
 
