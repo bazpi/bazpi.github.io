@@ -4,7 +4,7 @@ layout: default
 ![Avatar](/assets/images/avatar.PNG)
 Robotics research at [TIH-Cobotics](http://cobotics-iitd.com/), IIT Delhi, India.
 
-[Link to another page](./another-page.html).
+ <!--- just [Link to another page](./another-page.html). -->
 
 ## News
 * [Aug 2020] Our group [Technology Innovation Hub for Cobotics](http://cobotics-iitd.com/) gets [funded](https://www.livemint.com/education/news/iit-delhi-gets-rs-170-crore-from-dst-to-develop-collaborative-robotics-hub-11597404619952.html) by the Department of Science and Technology, India.
