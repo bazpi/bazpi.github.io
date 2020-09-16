@@ -6,16 +6,9 @@ Robotics research at [TIH-Cobotics](http://cobotics-iitd.com/), IIT Delhi, India
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## News
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# News
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
+* [Nov 2019] Our team SRMUAV wins the first prize at the [Mathworks Minidrone Competition](https://in.mathworks.com/academia/student-competitions/minidrones/minidrone-masters.html) held at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2019.
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
